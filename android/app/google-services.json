@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345619115659",
+    "firebase_url": "https://link-it-a4a3f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "link-it-a4a3f",
+    "storage_bucket": "link-it-a4a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345619115659:android:af662c81cb36086813ee8e",
+        "android_client_info": {
+          "package_name": "com.example.link_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345619115659-r7mgerumr91jbhg4fpls525jicpcteco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBjw8WHn0p8lNOSJGlsPl2HP-_RtSs_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345619115659-r7mgerumr91jbhg4fpls525jicpcteco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
